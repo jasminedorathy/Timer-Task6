@@ -1,12 +1,12 @@
 {
-  "name": "timer-task",
+  "name": "timerapp",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-scripts": "^5.0.1",
-    "homepage": "http://jasminedorathy.github.io/timertask6"
+    "homepage": "http://jasminedorathy.github.io/Timer-Task6"
   },
   "scripts": {
     "start": "react-scripts start",
