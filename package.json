@@ -6,9 +6,11 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-scripts": "^5.0.1",
-    "homepage": "http://jasminedorathy.github.io/Timer-Task6"
+    "homepage": "."
   },
   "scripts": {
+    "build": "react-scripts build",
+
     "start": "react-scripts start",
     "predeploy": "npm run build",
 "deploy": "gh-pages -d build"
